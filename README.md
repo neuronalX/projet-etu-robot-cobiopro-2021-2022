@@ -1,8 +1,10 @@
-# Projet M2 option Robot Enseirb/ESNC 2021-2022
+# Projet M2 option Robot Enseirb/ENSC 2021-2022
 Projet des étudiants option Robot de l'Enseirb/ENSC de Bordeaux pour le cours "Apprentissage"
 
 Il est possible de choisir 5 sujets par groupe de 2/3 étudiants. Chaque groupe doit choisir un sujet différent des autres.
 Afin de définir quels sont les sujets pour quels groupes, merci de faire une Pull-Request en donnant les noms et prénoms des membres du groupe, un nom de groupe et le sujet choisi.
+
+Language: Python
 
 ## 1.a. Retrouver les angles manquants
 Montrer qu’on a bien appris les positions (statiques) et qu’on est capable de reconstruire les angles manquants pour une personne amputée, à partir des angles de son épaule et de la position (désirée) de sa main:
