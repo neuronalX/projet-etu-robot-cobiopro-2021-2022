@@ -31,3 +31,9 @@ A partir des séquences de positions actuelles et/ou séquences d'angles, prédi
 ## 3.a Prédiction de séquence avec LSTMs
 Similaire au 3.a mais avec des réseaux LSTM.
 
+# Groupes
+1.
+2.
+3.
+4.
+5.
